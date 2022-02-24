@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/artashesGiv/cards/static/css/main.e6c13ad2.css",
+    "main.js": "/artashesGiv/cards/static/js/main.61a91dd9.js",
+    "index.html": "/artashesGiv/cards/index.html",
+    "main.e6c13ad2.css.map": "/artashesGiv/cards/static/css/main.e6c13ad2.css.map",
+    "main.61a91dd9.js.map": "/artashesGiv/cards/static/js/main.61a91dd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.61a91dd9.js"
+  ]
+}
