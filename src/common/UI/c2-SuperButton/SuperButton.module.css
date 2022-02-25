@@ -1,0 +1,16 @@
+.default {
+    width: 60px;
+    height: 20px;
+    border: none;
+    background-color: #b0c4de;
+    cursor: pointer;
+    color: #282c34;
+}
+
+.red {
+    background: red;
+}
+
+.disabled {
+    background-color: rgba(176, 196, 222, 0.5);
+}
